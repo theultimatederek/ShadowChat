@@ -4,7 +4,7 @@
 [![Java](https://img.shields.io/badge/Java-11-orange?logo=java)](https://www.java.com)
 [![Android](https://img.shields.io/badge/Android-API%2024%2B-green?logo=android)](https://developer.android.com)
 [![AES](https://img.shields.io/badge/Encryption-AES--128-red)](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/Hamsa24-am/ShadowChat/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/theultimatederek/ShadowChat/pulls)
 
 > **ShadowChat** is a futuristic stealth-themed Android encrypted messaging prototype built using Java and AES cryptography. Every message is encrypted client-side before display, with full cipher text visualization and an intelligent simulated secure relay node.
 
@@ -43,7 +43,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Hamsa24-am/ShadowChat.git
+git clone https://github.com/theultimatederek/ShadowChat.git
 
 # 2. Open in Android Studio
 File → Open → Select ShadowChat folder
